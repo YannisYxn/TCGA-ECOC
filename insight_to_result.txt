@@ -1,0 +1,163 @@
+             precision    recall  f1-score   support
+
+          A       0.65      1.00      0.79        13
+          B       0.00      0.00      0.00         4
+          C       0.00      0.00      0.00         3
+
+avg / total       0.42      0.65      0.51        20
+
+             precision    recall  f1-score   support
+
+          A       0.00      0.00      0.00         5
+          B       0.47      1.00      0.64         7
+          C       0.00      0.00      0.00         3
+
+avg / total       0.22      0.47      0.30        15
+
+             precision    recall  f1-score   support
+
+          B       0.00      0.00      0.00         2
+          C       0.76      1.00      0.87        13
+          D       1.00      0.50      0.67         2
+          E       0.00      0.00      0.00         1
+
+avg / total       0.66      0.78      0.70        18
+
+             precision    recall  f1-score   support
+
+          A       0.50      0.60      0.55         5
+          B       0.50      0.75      0.60         4
+          C       0.67      0.33      0.44         6
+
+avg / total       0.57      0.53      0.52        15
+
+Lung1
+             precision    recall  f1-score   support
+
+          A       0.70      1.00      0.82        14
+          B       0.00      0.00      0.00         4
+          C       0.00      0.00      0.00         2
+
+avg / total       0.49      0.70      0.58        20
+
+Leukemia1
+             precision    recall  f1-score   support
+
+          A       0.33      0.25      0.29         4
+          B       0.67      0.80      0.73        10
+          C       0.00      0.00      0.00         1
+
+avg / total       0.53      0.60      0.56        15
+
+Lung1
+             precision    recall  f1-score   support
+
+          A       0.80      1.00      0.89        16
+          B       0.00      0.00      0.00         3
+          C       0.00      0.00      0.00         1
+
+avg / total       0.64      0.80      0.71        20
+
+Leukemia1
+             precision    recall  f1-score   support
+
+          A       0.33      0.12      0.18         8
+          B       0.33      0.67      0.44         6
+          C       0.00      0.00      0.00         1
+
+avg / total       0.31      0.33      0.27        15
+
+DLBCL
+             precision    recall  f1-score   support
+
+          A       0.00      0.00      0.00         2
+          B       0.00      0.00      0.00         3
+          C       0.47      1.00      0.64         8
+          D       1.00      0.50      0.67         2
+          E       0.00      0.00      0.00         1
+          F       0.00      0.00      0.00         2
+
+avg / total       0.32      0.50      0.36        18
+
+Leukemia2
+             precision    recall  f1-score   support
+
+          A       0.33      0.33      0.33         3
+          B       0.78      1.00      0.88         7
+          C       0.33      0.20      0.25         5
+
+avg / total       0.54      0.60      0.56        15
+
+GCM
+             precision    recall  f1-score   support
+
+          A       0.00      0.00      0.00         1
+          B       0.00      0.00      0.00         1
+          C       0.00      0.00      0.00         3
+          D       0.00      0.00      0.00         4
+          E       0.31      0.82      0.45        11
+          F       0.00      0.00      0.00         1
+          G       0.00      0.00      0.00         1
+          H       1.00      0.33      0.50         3
+          I       0.00      0.00      0.00         1
+          J       0.25      0.50      0.33         2
+          L       0.00      0.00      0.00         5
+          M       0.00      0.00      0.00         3
+          N       0.00      0.00      0.00         2
+
+avg / total       0.18      0.29      0.19        38
+
+Breast
+             precision    recall  f1-score   support
+
+          B       0.00      0.00      0.00         2
+          C       1.00      0.33      0.50         3
+          D       0.58      0.88      0.70         8
+          E       0.75      0.75      0.75         4
+
+avg / total       0.63      0.65      0.59        17
+
+Cancers
+             precision    recall  f1-score   support
+
+          A       0.00      0.00      0.00         7
+          B       0.00      0.00      0.00         3
+          D       0.00      0.00      0.00         3
+          E       0.00      0.00      0.00         1
+          F       0.17      0.25      0.20         4
+          G       0.00      0.00      0.00         2
+          H       0.21      1.00      0.35         4
+          I       0.50      0.38      0.43         8
+
+avg / total       0.17      0.25      0.18        32
+
+SRBCT
+             precision    recall  f1-score   support
+
+          A       0.67      1.00      0.80         2
+          B       0.75      0.43      0.55         7
+          C       0.40      0.50      0.44         4
+          D       0.20      0.25      0.22         4
+
+avg / total       0.53      0.47      0.48        17
+
+SRBCT
+             precision    recall  f1-score   support
+
+          A       1.00      1.00      1.00         1
+          B       0.45      0.83      0.59         6
+          C       1.00      0.20      0.33         5
+          D       0.75      0.60      0.67         5
+
+avg / total       0.73      0.59      0.56        17
+
+SRBCT
+             precision    recall  f1-score   support
+
+          A       1.00      1.00      1.00         1
+          B       0.33      0.14      0.20         7
+          C       0.29      0.67      0.40         3
+          D       0.33      0.33      0.33         6
+
+avg / total       0.36      0.35      0.33        17
+

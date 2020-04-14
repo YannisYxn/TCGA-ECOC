@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microarray/Breast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/Cancers.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/DLBCL.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/GCM.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/Leukemia1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/Leukemia2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray/Lung1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vDT/Breast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vDT/Leukemia1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vKNN/Cancers.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vKNN/Leukemia1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vKNN/Leukemia2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microarray_vSVC/SRBCT.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Absenteeism_at_work.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Amazon_initial.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Breast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Cancers.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/DLBCL.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/GCM.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Leukemia1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Leukemia2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Lung1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/Lung2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/SRBCT.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/abalone.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/dermatology.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/ecoli.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/glass.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/wine.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/yeast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record/zoo.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Absenteeism_at_work.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Amazon_initial.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Breast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Cancers.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/DLBCL.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/GCM.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Leukemia1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Leukemia2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Lung1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/Lung2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/SRBCT.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/abalone.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/dermatology.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/ecoli.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/glass.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/wine.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/yeast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/record2/zoo.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/abalone.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/cmc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/ecoli.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/glass.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/thyroid.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/vertebral.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/wine.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_KNN/yeast.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_SVC/cmc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/uci_SVC/glass.txt" charset="GBK" />
+  </component>
+</project>
