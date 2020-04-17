@@ -501,8 +501,6 @@ class GA_TOP(object):
         for line in code_matrix:
             # 不能含有全为0的行
             if (line == temparray).all():
-                print("66666")
-                print(line)
                 flag = True
                 bound = round(code_matrix.shape[1] / 2)
                 #                if bound==0:
@@ -516,8 +514,6 @@ class GA_TOP(object):
             temp_code_matrix = np.delete(code_matrix, i, axis=0)
             for j in range(temp_code_matrix.shape[0]):
                 if ((line - temp_code_matrix[j]) == temparray).all():
-                    print("77777")
-                    print(line)
                     flag = True
                     bound = round(code_matrix.shape[1] / 2)
                     if bound == 0 and len(line) > 1:
